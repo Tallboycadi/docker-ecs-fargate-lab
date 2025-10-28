@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="A_clean_and_professional_digital_graphic_banner_di.png" alt="AWS ECS Fargate Lab – by Cliffton Benford" width="100%">
+</p>
+
 <h1 align="center" style="color:#1E90FF;">🚀 AWS ECS Fargate Lab (Terraform + Node.js)</h1>
 
 <p align="center">
