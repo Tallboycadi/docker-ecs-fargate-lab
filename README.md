@@ -10,18 +10,7 @@ This project demonstrates how to deploy a <strong>containerized Node.js applicat
 It showcases a full AWS setup with an <strong>Application Load Balancer (ALB)</strong>, <strong>ECS Service</strong>, <strong>Task Definition</strong>, <strong>IAM roles</strong>, and <strong>Amazon ECR</strong> — all automated.
 
 
-### 🧱 Architecture Overview
 
-```mermaid
-graph TD
-  A[Local Dev / VS Code] -->|Terraform Apply| B[AWS VPC]
-  B --> C[Subnets & Security Groups]
-  C --> D[Application Load Balancer (ALB)]
-  D --> E[ECS Service (Fargate)]
-  E --> F[ECS Task Definition]
-  F --> G[Container Image from Amazon ECR]
-  G --> H[Node.js App Container]
-  E --> I[IAM Roles & Policies]
 
 <h2><span style="color:#C0C0C0;">🧩 Tech Stack</span></h2>
 Component	Technology
