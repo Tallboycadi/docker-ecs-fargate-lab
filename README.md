@@ -10,8 +10,7 @@ This project demonstrates how to deploy a <strong>containerized Node.js applicat
 It showcases a full AWS setup with an <strong>Application Load Balancer (ALB)</strong>, <strong>ECS Service</strong>, <strong>Task Definition</strong>, <strong>IAM roles</strong>, and <strong>Amazon ECR</strong> — all automated.
 
 
-
-<h2 style="color:#1E3A8A; font-weight:700;">🔁 Architecture Overview</h2>
+### 🧱 Architecture Overview
 
 ```mermaid
 graph TD
